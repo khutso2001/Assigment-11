@@ -1,0 +1,28 @@
+.card{
+    border-radius: 10px;
+    border: 1px solid black;
+    max-width: 250px;
+}
+.card img{
+    width: 250px;
+    border-radius: 10px;
+    height: 270px;
+}
+.btn{
+    width: 180px;
+    color: white;
+    font-weight: bold;
+    background: green;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.card span{
+    font-weight: 600;
+}
+.cardInfo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
